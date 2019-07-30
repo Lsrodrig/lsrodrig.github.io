@@ -25,11 +25,10 @@ title:                 Luis Rodríguez
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
- Carl Sagan 
 # A shorter description for the sidebar.
 tagline:               >
-  "Carl Sagan — 'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
-
+  'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.' Carl Sagan 
+     
 # A list of keywords for your blog
 keywords:              []
 
