@@ -24,8 +24,8 @@ title:                 Luis Rodriguez
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Carl Sagan — 'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
-
+  'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
+ Carl Sagan 
 # A shorter description for the sidebar.
 tagline:               >
   "Carl Sagan — 'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
