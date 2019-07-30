@@ -19,18 +19,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Luis Rodriguez
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  Carl Sagan — 'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "Carl Sagan — 'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,13 +47,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             Outreach / Difusion 
     url:               /hydejack/
-  - title:             Hyde
+  - title:             Academy
     url:               /hyde/
-  - title:             Documentation
+  - title:             Teaching
     url:               /docs/
-  - title:             About
+  - title:             About me
     url:               /about/
 
 # Add links to the footer.
