@@ -14,6 +14,7 @@ Here you should be able to find everything of my physics courses.
 
 
 ## Getting started
+* [Electromagnetism]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
