@@ -43,7 +43,7 @@ Here you should be able to find everything of my physics courses. I have some no
 
 * [Waves and Optics]{:.heading.flip-title} --- Standard Waves and Optics Course for Engineers.
 
-* [Fundamental Physics]{:.heading.flip-title} --- Standard Fundamental Physics Course for Engineers and other Scientist.
+* [Fundamental Physics]{:.heading.flip-title} --- Standard Fundamental Physics Course for Engineers and other Scientists.
 
 
 ## Using Hydejack
