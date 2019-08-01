@@ -16,16 +16,23 @@ Here you should be able to find everything of my physics courses. I have some no
 
 
 ## Getting started
-* [Electromagnetism]{:.heading.flip-title} --- Standard Electromagnetism Course for Physics and Engineering. 
+* [Electromagnetism]{:.heading.flip-title} --- Standard Electromagnetism Course for Physicists and Engineers. 
 
 
 
 > *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
 
-* [Thermodynamics]{:.heading.flip-title} --- Standard Thermodynamics Course for Physics and Astronomy. 
-* [Classical Mechanics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physics, Astronomy. 
-* [Modern Physics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physics, Astronomy. 
+* [Thermodynamics]{:.heading.flip-title} --- Standard Thermodynamics Course for Physicists and Astronomers. 
 
+> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
+
+* [Classical Mechanics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physicists and Astronomers. 
+
+> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
+
+* [Modern Physics]{:.heading.flip-title} --- Standard Modern Physics Course for Physicists and Astronomers. 
+
+> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
 
 ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
