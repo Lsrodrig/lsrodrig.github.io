@@ -6,7 +6,9 @@ permalink: /docs/
 ---
 
 # Documentation
-Here you should be able to find everything of my physics courses. 
+Here you should be able to find everything of my physics courses. I have some notes, excersices and some tests in each course.
+
+
 
 
 **NOTE**: Almost all documents are in Spanish, however,  you can understand them doing some extrapolation from your english domain and math is universall.
@@ -15,7 +17,6 @@ Here you should be able to find everything of my physics courses.
 
 ## Getting started
 * [Electromagnetism]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
@@ -35,7 +36,6 @@ Here you should be able to find everything of my physics courses.
 {:.related-posts.faded}
 
 [Electromagnetism]: Electromagnetism.md
-[install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
