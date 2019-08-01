@@ -20,6 +20,8 @@ Here you should be able to find everything of my physics courses. I have some no
 
 ** Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation 
 
+> Enable the experimental incremental build feature. Incremental build only re-builds posts and pages that have changed, resulting in significant performance improvements for large sites, *but may also break site generation in certain cases*.
+
 
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
