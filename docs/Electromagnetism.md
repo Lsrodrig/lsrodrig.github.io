@@ -10,6 +10,8 @@ hide_description: true
 
 ![Full-width image](/assets/img/blog/quantum.jpg){:.lead data-width="800" data-height="100"}
 
+![Full-width image](https://www.google.com/search?biw=1604&bih=836&tbm=isch&sa=1&ei=hc1CXYeVFsrC5OUP5oqVoAE&q=solar+flare&oq=solar+flare&gs_l=img.3..0l10.46020.47881..48009...0.0..0.49.487.11......0....1..gws-wiz-img.......35i39j0i67.ZvKvL7TGswg&ved=0ahUKEwjH64CkyeHjAhVKIbkGHWZFBRQQ4dUDCAY&uact=5#imgdii=L8wx6oADKBK3NM:&imgrc=4J0ODiStlw9cMM:){:.lead data-width="800" data-height="100"}
+
 
 Este curso es muy importante para la formación de cualquier científico. Toda la interacción que tenemos con el mundo en nuestra vida cotidiana tiene una naturaleza electromagnética, excepto la gravedad. Vivimos en un mundo lleno de tecnología y pocos saben cómo ésta funciona. 
 
