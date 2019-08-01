@@ -8,7 +8,7 @@ hide_description: true
 
 # Electromagnetism / Electromagnetismo
 
-[Full-width image](/assets/img/blog/flares.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/img/blog/flares.jpg){:.lead data-width="800" data-height="100"}
 
 
 
