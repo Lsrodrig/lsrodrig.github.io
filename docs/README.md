@@ -16,15 +16,16 @@ Here you should be able to find everything of my physics courses. I have some no
 
 
 ## Getting started
-* [Electromagnetism]{:.heading.flip-title} --- Standard Electromagnetism Course. 
+* [Electromagnetism]{:.heading.flip-title} --- Standard Electromagnetism Course for Physics and Engineering. 
 
 
 
 > *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
 
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-{:.related-posts.faded}
+* [Thermodynamics]{:.heading.flip-title} --- Standard Thermodynamics Course for Physics and Astronomy. 
+* [Classical Mechanics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physics, Astronomy. 
+* [Modern Physics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physics, Astronomy. 
+
 
 ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
@@ -41,8 +42,10 @@ Here you should be able to find everything of my physics courses. I have some no
 {:.related-posts.faded}
 
 [Electromagnetism]: Electromagnetism.md
-[upgrade]: upgrade.md
-[config]: config.md
+[Classical Mechanics]: ClassicalMechanics.md
+[Thermodynamics]: Thermodynamics.md
+[Modern Physics]: ModernPhysics.md
+
 [basics]: basics.md
 [writing]: writing.md
 [scripts]: scripts.md
