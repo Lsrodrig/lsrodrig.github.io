@@ -54,7 +54,7 @@ menu:
   - title:             Academy / Academia
     url:               /hyde/
   - title:             Teaching / Cursos
-    url:               /cursos/
+    url:               /docs/
   - title:             About me / Sobre mi - Contactame
     url:               /about/
  
