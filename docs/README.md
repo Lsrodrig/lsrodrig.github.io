@@ -33,6 +33,7 @@ Here you should be able to find everything of my physics courses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
+[Electromagnetism]: Electromagnetism.md
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
