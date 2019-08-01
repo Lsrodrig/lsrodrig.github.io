@@ -24,11 +24,14 @@ Here you should be able to find everything of my physics courses. I have some no
 
 * [Thermodynamics]{:.heading.flip-title} --- Standard Thermodynamics Course for Physicists and Astronomers. 
 
-> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
+> *Ideal Gas, Equation of State and Extensive Variables, Internal Energy, First Law of Thermodynamics, Intensive Variables - Partial derivatives,Second law of Thermodynamics, Systems in equilibrium, Thermodynamic Cycles, Thermodynamic Potentials, Black body radiation, Specific Heat, Cooling, Kinetic Theory, Probabilities, Micro-canonical Ensemble*.
 
 * [Classical Mechanics]{:.heading.flip-title} --- Standard Classical Mechanics Course for Physicists and Astronomers. 
 
-> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
+> Part I: *Coordinates, Cinematic, Newton's laws, Dynamics, Forces, Hooke's law, Friction, Work and Energy, Conservative Forces, Central Forces, Kepler's laws, Momentum conservation, Collisions, Inertia Moments, Torque, Rigid Solid Motion, Rotational Energy, Non-inertial frames.*.
+
+> Part II: *Generalized Coordinates, Virtual Works, Lagrangian, Euler-Lagrange Equations, Lagrange Multipliers, Small Oscillations ,Hamiltonian Mechanics, Hamilton's Principle, Legendre Transformations, Hamilton-Jacobi transformations, Noether Theorem, Chaos*.
+
 
 * [Modern Physics]{:.heading.flip-title} --- Standard Modern Physics Course for Physicists and Astronomers. 
 
