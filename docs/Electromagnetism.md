@@ -21,7 +21,7 @@ El electromagnetismo está presente desde la interacción de  tus neuronas y cad
 
 **NOTE**: For this course I strongly recommend you know calculus in many variables, differential equations and classical mechanics. Almost all documents are in Spanish, however,  you can understand them doing some extrapolation from your english domain and math is universall.
 
-**NOTE**: Para este curso te recomiendo fuertemente que domines cálculo en varias variables, ecuaciones diferenciales y mecánica clásica.
+**NOTA**: Para este curso te recomiendo fuertemente que domines cálculo en varias variables, ecuaciones diferenciales y mecánica clásica.
 
 
 # Campo Eléctrico
