@@ -15,7 +15,7 @@ Quantum Astronomy es un podcast de ciencia y humor. Junto a mi colega y amigo, [
 
 You can find us on Spotify , I-tunes , youtube , I voox
 
-##Temporada 1:
+## Temporada 1:
 
 **Capitulo 6**:
 
