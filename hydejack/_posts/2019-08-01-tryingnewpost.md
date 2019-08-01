@@ -11,4 +11,4 @@ NEW ADDITION /www.instagram.com/
 
 
 
-For more, see the [Jekyll docs](https://jekyllrb.com/docs/configuration/#build-command-options) .
+For more, see the [MY INSTRAGAM](https://www.instagram.com/strangepulsar/) .
