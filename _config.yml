@@ -57,6 +57,8 @@ menu:
     url:               /docs/
   - title:             About me / Sobre mi - Contactame
     url:               /about/
+ - title:             Cursos 2
+    url:               /cursos/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
