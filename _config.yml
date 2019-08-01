@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Luis Rodríguez
+title:                 Luis Rodriguez
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -27,6 +27,7 @@ description:           >
   'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.'
 # A shorter description for the sidebar.
 tagline:               >
+
   'The cosmos is within us. We are made of star-stuff. We are a way for the Universe to know itself.' 
 
         Carl Sagan 
@@ -41,7 +42,7 @@ logo:                  /assets/icons/1.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Luis> <Rodríguez>
+  name:                <Luis> <Rodriguez>
   email:               <lsrodrig@uc.cl>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
