@@ -15,9 +15,9 @@ Quantum Astronomy es un podcast de ciencia y humor. Junto a mi colega y amigo, [
 
 You can find us on Spotify , I-tunes , youtube , I voox
 
-Temporada 1:
+##Temporada 1:
 
-Capitulo 6:
+**Capitulo 6**:
 
 ¿Qué es la Luna, y qué rol cumple en nuestras vidas? ¿Llegamos realmente a la Luna?
 [La Luna](https://open.spotify.com/episode/4YVoPtLvs66Sb7BLhruBFH?si=vnmH_YarR0CObrNsoHU5bA)
