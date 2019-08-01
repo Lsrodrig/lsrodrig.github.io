@@ -1,4 +1,17 @@
 ---
+hydejack:
+  dark_mode:
+    # Set to `true` to always use the dark theme.
+    always:            false
+
+    # Set to `true` to use the dark theme based on visitors' local time.
+    dynamic:           true
+    sunrise:           6
+    sunset:            18
+
+    # Set to `true` to allow visitors to switch between light and dark mode.
+    icon:              true
+
 title: Improving Hydejack's Build Speed
 image: /assets/img/blog/wade-lambert.jpg
 description: >
