@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Outreach / Difusión
-slug: hydejack
+slug: cursos
 menu: true
 order: 1
 description: >
