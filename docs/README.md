@@ -5,7 +5,7 @@ hide_description: true
 permalink: /docs/
 ---
 
-# Documentation
+# Teaching / Cursos 
 Here you should be able to find everything of my physics courses. I have some notes, excersices and some tests in each course.
 
 
