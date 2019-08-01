@@ -9,11 +9,11 @@ hide_description: true
 # Electromagnetism / Electromagnetismo
 
 
-Este curso es muy importante para la formación de cualquier científico. Toda la interacción que tenemos con el mundo en nuestra vida cotidiana tiene una naturaleza electromagnética, excepto la gravedad. Vivimos en un mundo lleno de tecnología y pocos saben como ésta funciona. 
+Este curso es muy importante para la formación de cualquier científico. Toda la interacción que tenemos con el mundo en nuestra vida cotidiana tiene una naturaleza electromagnética, excepto la gravedad. Vivimos en un mundo lleno de tecnología y pocos saben cómo ésta funciona. 
 
 La teoría electromagnética es un pilar fundamental para el funcionamiento del mundo, la tecnología no nace de forma espontánea. Primero hay que entender la naturaleza para luego usarla a nuestro favor.
 
-
+El electromagnetismo está presente desde la interacción de  tus neuronas y cada una de tus átomos, moléculas y celulas, hasta en  las estrellas y las galaxias.
 
 **NOTE**: For this course I strongly recommend you know calculus in many variables, differential equations and classical mechanics. Almost all documents are in Spanish, however,  you can understand them doing some extrapolation from your english domain and math is universall.
 
@@ -23,6 +23,8 @@ La teoría electromagnética es un pilar fundamental para el funcionamiento del 
 # Campo Eléctrico
 
 [Integral de Coulomb](https://drive.google.com/file/d/1GmAe1T22fhpqSTj7wvUJ4z1xTXDTTE-G/view?usp=sharing) --- Ejercicios de cálculo de campos eléctricos usando las integrales de Coulomb. 
+
+
 [Integral de Coulomb II](https://drive.google.com/file/d/1haepUHjz8HykGV6yeCnlq4WimNsVom1N/view?usp=sharing)  ---  Ejercicios de cálculo de campos eléctricos usando las integrales de Coulomb. 
 
 # Conductores
