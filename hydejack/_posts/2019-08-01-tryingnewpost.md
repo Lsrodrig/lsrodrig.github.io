@@ -22,7 +22,6 @@ You can find us on Spotify , I-tunes , youtube , I voox
 ¿Qué es la Luna, y qué rol cumple en nuestras vidas? ¿Llegamos realmente a la Luna?
 
 [La Luna](https://open.spotify.com/episode/4YVoPtLvs66Sb7BLhruBFH?si=vnmH_YarR0CObrNsoHU5bA)  
-![100x100](https://placehold.it/200x200 "Small example image")
 
 **Capitulo 5**:
 
