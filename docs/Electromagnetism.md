@@ -8,7 +8,7 @@ hide_description: true
 
 # Electromagnetism / Electromagnetismo
 
-image: /assets/img/blog/quantum.jpg
+![Full-width image](/assets/img/blog/quantum.jpg){:.lead data-width="800" data-height="100"}
 
 
 Este curso es muy importante para la formación de cualquier científico. Toda la interacción que tenemos con el mundo en nuestra vida cotidiana tiene una naturaleza electromagnética, excepto la gravedad. Vivimos en un mundo lleno de tecnología y pocos saben cómo ésta funciona. 
