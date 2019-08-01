@@ -1,14 +1,15 @@
 ---
 
-title: Improving Hydejack's Build Speed
+title: Quantum Astronomy Podcast
 image: /assets/img/blog/wade-lambert.jpg
 description: >
   Hydejack 8.4.0 introduces new options to bring Hydejack's build time in line with other Jekyll themes. 
 ---
 
-NEW ADDITION /www.instagram.com/
 
 
 
 
-For more, see the [MY INSTRAGAM](https://www.instagram.com/strangepulsar/) .
+For more, see my [Instagram](https://www.instagram.com/strangepulsar/) .
+    -- or --
+Para mas información ve mi [Instagram](https://www.instagram.com/strangepulsar/) .
