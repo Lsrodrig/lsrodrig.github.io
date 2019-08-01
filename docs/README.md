@@ -35,7 +35,16 @@ Here you should be able to find everything of my physics courses. I have some no
 
 * [Modern Physics]{:.heading.flip-title} --- Standard Modern Physics Course for Physicists and Astronomers. 
 
-> *Electric charge, Coulomb's Force, Electric Field, Gauss law, Electric field in matter, Dielectrics, Conductors, Currents, Circuits, Capacitator, Resistances, Kirchhoff's laws, Ohm's law, Joule's law,RC circuits, LRC circuits, Magnetic field, Biot Savart law, Magnetic force on conductors, Magnetic Field in matter, Amperè's law, Lorentz Force, Poyting Vector, Electromagnetic waves and radiation*.
+> *Special Relativity, Uncertainty principle, Sommerfeld Quantization, Schrodinger's Equation, Hydrogen Atom, Zeeman effect*.
+
+* [Astronomy]{:.heading.flip-title} --- Standard Astronomy Course for Astronomers. 
+
+> *Special Relativity, Uncertainty principle, Sommerfeld Quantization, Schrodinger's Equation, Hydrogen Atom, Zeeman effect*.
+
+* [Waves and Optics]{:.heading.flip-title} --- Standard Waves and Optics Course for Engineers.
+
+* [Fundamental Physics]{:.heading.flip-title} --- Standard Fundamental Physics Course for Engineers and other Scientist.
+
 
 ## Using Hydejack
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
@@ -51,6 +60,10 @@ Here you should be able to find everything of my physics courses. I have some no
 [Classical Mechanics]: ClassicalMechanics.md
 [Thermodynamics]: Thermodynamics.md
 [Modern Physics]: ModernPhysics.md
+[Astronomy]:      Astronomy.md
+[Waves and Optics]:   Waves.md
+[Fundamental Physics]: Fundamental.md
+
 
 [basics]: basics.md
 [writing]: writing.md
