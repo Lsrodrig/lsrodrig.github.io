@@ -22,6 +22,25 @@ You can find us on Spotify , I-tunes , youtube , I voox
 ¿Qué es la Luna, y qué rol cumple en nuestras vidas? ¿Llegamos realmente a la Luna?
 [La Luna](https://open.spotify.com/episode/4YVoPtLvs66Sb7BLhruBFH?si=vnmH_YarR0CObrNsoHU5bA)
 
+**Capitulo 5**:
+
+[Planetas](https://open.spotify.com/episode/0LrHFyUmoFQyao2IpYwGdN)
+
+**Capitulo 4**:
+
+[Solsticio de Invierno Nuclear](https://open.spotify.com/episode/3qYDiWzW3kEJJ7TbnOUhD1)
+
+**Capitulo 3**:
+
+[El Pulento Sol](https://open.spotify.com/episode/3M6TKGl1brSfGvfdB5ltjp)
+
+**Capitulo 2**:
+
+[Eclipses](https://open.spotify.com/episode/5QCaI7Xg8vZxqftRSf3cZn)
+
+**Capitulo 1**:
+
+[Contacto Extraterrestre](https://open.spotify.com/episode/22q77kDTTQJEBpk3NNB2Ye)
 
 
 For more, see my [Instagram](https://www.instagram.com/strangepulsar/).
