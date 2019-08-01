@@ -42,11 +42,7 @@ Here you should be able to find everything of my physics courses. I have some no
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
 
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
+
 
 [Electromagnetism]: Electromagnetism.md
 [Classical Mechanics]: ClassicalMechanics.md
@@ -58,6 +54,4 @@ Here you should be able to find everything of my physics courses. I have some no
 [scripts]: scripts.md
 [build]: build.md
 [advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+
